@@ -1,0 +1,6 @@
+C:\Users\tdrexler\Documents\GitHub\say\say\bin\Release\say.exe.config
+C:\Users\tdrexler\Documents\GitHub\say\say\bin\Release\say.exe
+C:\Users\tdrexler\Documents\GitHub\say\say\bin\Release\say.pdb
+C:\Users\tdrexler\Documents\GitHub\say\say\obj\Release\say.csprojResolveAssemblyReference.cache
+C:\Users\tdrexler\Documents\GitHub\say\say\obj\Release\say.exe
+C:\Users\tdrexler\Documents\GitHub\say\say\obj\Release\say.pdb

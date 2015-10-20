@@ -1,1 +1,2 @@
 C:\Users\tdrexler\Desktop\say\say\bin\Debug\say.exe.config
+C:\Users\tdrexler\Documents\GitHub\say\say\bin\Debug\say.exe.config
